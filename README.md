@@ -1,2 +1,2 @@
 # Money-Tracker
-money tracking prototype website
+Money tracking prototype website
